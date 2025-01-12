@@ -5,8 +5,8 @@ Here You Will Find All Sorts Of Helpfull Stuff, That I Encountered Myself And Ot
 # **NOTE: Follow the steps closely without missing a single one, do not rush, take your time, but if you ignore all the warnings, I'm not responsible if you make mistakes!**
 
 ## Setting Up **Nebula pad** On **Ender 3 v3 SE** For The First Time
-- Installing Firmware For motherboard [TODO]
-- Setting up nebula pad [TODO]
+- [Installing Firmware For motherboard](./SettingUpNebulaPad/SettingUpNebulaPad.md#installing-motherboard-firmware)
+- [Setting up nebula pad](./SettingUpNebulaPad/SettingUpNebulaPad.md#setting-up-nebula-pad)
 
 ## Rooting Nebula Pad [TODO]
 
@@ -32,6 +32,7 @@ Here You Will Find All Sorts Of Helpfull Stuff, That I Encountered Myself And Ot
 - ERROR 2208 [TODO]
 - Can't communicate to the firmware [TODO]
 - Layer shifts [TODO]
+- Auto-Leveling failed [TODO]
 
 ## Nebula Pad Hardware Upgrades
 - Dual Part Cooling Fans [TODO]
