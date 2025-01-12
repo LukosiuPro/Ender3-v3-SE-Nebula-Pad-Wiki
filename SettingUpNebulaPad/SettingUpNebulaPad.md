@@ -20,7 +20,7 @@ Note: You can use the files from usb drive that came with your nebula pad, but f
 13. Connect nebula pad to the printer.
 14. **IMPORTANT!** Make sure you don't have the sd card in it the printer and no USB attached to the nebula pad.
 15. Turn on the printer, wait a bit, let it initialize.
-16. Now you can follow the [Setting up nebula pad turtorial](#setting-up-nebula-pad)
+16. Now you can follow the [Setting up nebula pad tutorial](#setting-up-nebula-pad)
 
 # Setting up nebula pad
 1. When you boot up for the first time, you will be greated with printer selection.
