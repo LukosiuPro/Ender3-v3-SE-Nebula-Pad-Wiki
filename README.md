@@ -30,12 +30,32 @@ Here You Will Find All Sorts Of Helpfull Stuff, That I Encountered Myself And Ot
 ## Nebula Pad Issues Fixes
 - Bricked nebula pad (Does not boot) [TODO]
 - ERROR 2208 [TODO]
--
+- Can't communicate to the firmware [TODO]
+- Layer shifts [TODO]
 
 ## Nebula Pad Hardware Upgrades
 - Dual Part Cooling Fans [TODO]
 - Heatsink Fan Upgrade [TODO]
 - Runout Sensor [TODO]
+- Lightbar [TODO]
+
+# Slicers
+- Ocraslicer [TODO]
+    - Setting up remote access/printing to the printer [TODO]
+    - Setting up printer profile for klipper [TODO]
+        - Thumbnail Generation [TODO]
+    - Setting up Filaments [TODO]
+    - Setting up Processes [TODO]
+        - Hyper PLAs [TODO]
+        - PLA [TODO]
+        - PETG [TODO]
+
+# Materials and profiles for OcraSlicer
+- Elegoo PLA [TODO]
+- Creality PLA [TODO]
+- Sunlu PLA [TODO]
+- Elegoo Hype PETG [TODO]
+- Elegoo PETG+ [TODO]
 
 # Big Thanks To:
 - **Mike Lowry** - for helping out with testing fixes and sharing his issues, that he stumbled uppon. Thanks <3
