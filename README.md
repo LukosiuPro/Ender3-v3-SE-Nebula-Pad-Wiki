@@ -9,7 +9,7 @@ Here You Will Find All Sorts Of Helpfull Stuff, That I Encountered Myself And Ot
 - [Setting up nebula pad](./SettingUpNebulaPad/SettingUpNebulaPad.md#setting-up-nebula-pad)
 
 ## Rooting Nebula Pad [TODO]
-
+ 
 - Downgrading to version 23 [TODO]
 - Intalling rooted firmware [TODO]
 - SSH'ing into the pad [TODO]
