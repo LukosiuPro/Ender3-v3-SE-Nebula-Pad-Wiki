@@ -21,8 +21,8 @@ Feel free to contribute yourself if you see anything that you want to add.
 
 ### Important Fixes After Rooting The Firmware
 - [Read this First!](FixesForNebulaPad/FixesForNebulaPad.md#important)
-  - [Changing stepper run current](FixesForNebulaPad/FixesForNebulaPad.md#important)
-  - [Limiting the speed of printer](FixesForNebulaPad/LimitingSpeedOfThePrinter.md#limiting-speed-of-the-printer)
+  - [Changing stepper run current](FixesForNebulaPad/ChangingRunCurrent.md#important)
+  - [Limiting the speed of printer](FixesForNebulaPad/LimitingSpeedOfThePrinter.md#important)
 
 ### Recommended Software To Install With Helper Script
 - Git Backup [TODO]
