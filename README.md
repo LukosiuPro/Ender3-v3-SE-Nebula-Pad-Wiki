@@ -20,8 +20,9 @@ Feel free to contribute yourself if you see anything that you want to add.
     - [Linux/Mac](./GeneralTurtorials/SSHIntoNebulaPad#linuxmac)
 
 ### Important Fixes After Rooting The Firmware
-- [Changing stepper run current](./FixesForNebulaPad/NebulaPadFixesAfterRoot.md#nebula-pad-fixes-after-root)
-- Limiting the speed of printer [TODO]
+- [Read this First!](FixesForNebulaPad/FixesForNebulaPad.md#important)
+  - [Changing stepper run current](FixesForNebulaPad/FixesForNebulaPad.md#important)
+  - [Limiting the speed of printer](FixesForNebulaPad/LimitingSpeedOfThePrinter.md#limiting-speed-of-the-printer)
 
 ### Recommended Software To Install With Helper Script
 - Git Backup [TODO]
