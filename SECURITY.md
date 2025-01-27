@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Important!
-You it at your own risk, this wiki is only for guidence, if you break or brick your printer, I'm not responsable for any damages! Always proceed with coution.
+Do it at your own risk, this wiki is only for guidence, if you break or brick your printer, I'm not responsable for any damages! Always proceed with coution.
 
 ### Before you submit a suggestion/bug
 1. Make sure you can reproduce it, not just take it from the internet.
