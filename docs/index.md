@@ -8,7 +8,8 @@ that shared, or I found that it is useful from **reddit**/**discord**/**git**.
 
 Feel free to contribute yourself if you see anything that you want to add.
 
-> **NOTE:** Follow the steps closely without missing a single one, do not rush, take your time, but if you ignore all the warnings, I'm not responsible if you make mistakes or even break your stuff, proceed with caution!
+!!! danger "At Your Own Risk"
+    Follow the steps closely without missing a single one, do not rush, take your time, but if you ignore all the warnings, I'm not responsible if you make mistakes or even break your stuff, proceed with caution!
 
 ## Setting Up **Nebula pad** On **Ender 3 v3 SE** For The First Time
 - [Installing Firmware For motherboard](SettingUpNebulaPad/SettingUpNebulaPad.md#installing-motherboard-firmware)

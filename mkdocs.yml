@@ -1,4 +1,10 @@
 site_name: Nebula Pad with Ender-3 v3 SE
+theme:
+  name: material
+  palette:
+    primary: green
+markdown_extensions:
+  - admonition
 nav:
   - Home: index.md
   - Setup: SettingUpNebulaPad/SettingUpNebulaPad.md
