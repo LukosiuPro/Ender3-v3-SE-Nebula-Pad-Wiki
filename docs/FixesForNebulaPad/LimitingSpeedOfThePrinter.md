@@ -15,7 +15,7 @@ I'm not responsible if you make changes that is not told to do. **Follow with ca
    ![FluidPrinterConfigPlace.png](FluidImages/FluidPrinterConfigPlace.png)
 6. When you see a lot of text in there, `CTRL + F` to open search function.
 7. In search bar type `[printer]` and you should see something like this:
-    ```TEXT
+   ``` cfg
    [printer]
     kinematics: cartesian
     max_velocity: 500
@@ -29,7 +29,7 @@ I'm not responsible if you make changes that is not told to do. **Follow with ca
    - `max_accel: 5000` to `max_accel: 2600`
    - `max_accel_to_decel: 5000` to `max_accel_to_decel: 2600`
 9. After changing them, they should look like this:
-    ```TEXT
+   ``` cfg
    [printer]
     kinematics: cartesian
     max_velocity: 500
@@ -38,7 +38,7 @@ I'm not responsible if you make changes that is not told to do. **Follow with ca
     max_z_velocity: 100
     square_corner_velocity: 5.0
     max_z_accel: 500
-    ```
+   ```
    ![PrinterConfigPrinter.png](FluidImages/PrinterConfigPrinter.png)
 10. Click `Save & Restart`
     ![PrinterConfigSaveAndRestart.png](FluidImages/PrinterConfigSaveAndRestart.png)   
