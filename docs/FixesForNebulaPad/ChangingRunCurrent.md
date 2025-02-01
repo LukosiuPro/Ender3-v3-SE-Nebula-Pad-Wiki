@@ -17,7 +17,7 @@ but if you have Ocra slicer set up, **skip to step 4**.
 7. In search bar type `[tmc2208 stepper_y]`. It should take you to the exact text you typed, if not, 
 use arrow keys to navigate down.
 8. You should see something like this:
-    ```TEXT
+    ``` cfg
     [tmc2208 stepper_y]
     uart_pin:PB13
     interpolate: True
@@ -26,7 +26,7 @@ use arrow keys to navigate down.
     stealthchop_threshold: 0 
     ```
 9. Now edit line `run_current: 0.6` to `run_current: 0.8`
-    ```TEXT
+    ``` cfg
     [tmc2208 stepper_y]
     uart_pin:PB13
     interpolate: True
@@ -34,9 +34,9 @@ use arrow keys to navigate down.
     sense_resistor: 0.150
     stealthchop_threshold: 0 
     ```
-   ![PrinterConfigYAxis.png](FluidImages/PrinterConfigYAxis.png)
+    ![PrinterConfigYAxis.png](FluidImages/PrinterConfigYAxis.png)
 10. Now in search bar type `[tmc2208 stepper_z]`, it should take you to something like this.
-    ```TEXT
+    ``` cfg
     [tmc2208 stepper_z]
     uart_pin: PB14
     interpolate: True
@@ -45,7 +45,7 @@ use arrow keys to navigate down.
     sense_resistor: 0.150
     ```
 11. Change the value of `run_current: 0.6` to `run_current: 0.8` like this:
-    ```TEXT
+    ``` cfg
     [tmc2208 stepper_z]
     uart_pin: PB14
     interpolate: True

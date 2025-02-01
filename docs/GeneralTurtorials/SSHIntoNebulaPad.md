@@ -20,6 +20,6 @@ Note: You can only ssh into the nebula pad successfully, if you have it rooted.
 
 1. Open terminal
 2. Type 
-    ```BASH
-   ssh root@YOUR_PRINTER_IP
-   ```
+    ``` sh
+    ssh root@YOUR_PRINTER_IP
+    ```
