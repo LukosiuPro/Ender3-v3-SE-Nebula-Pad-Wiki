@@ -1,0 +1,18 @@
+site_name: Nebula Pad with Ender-3 v3 SE
+theme:
+  name: material
+  palette:
+    primary: green
+markdown_extensions:
+  - admonition
+nav:
+  - Home: index.md
+  - Setup: SettingUpNebulaPad/SettingUpNebulaPad.md
+  - Rooting: 
+    - Downgrading: RootingNebulaPad/DowngradingNebulaPad.md
+    - Installing: RootingNebulaPad/InstallingRootedFirmware.md
+  - Fixes: FixesForNebulaPad/FixesForNebulaPad.md
+  - General:
+    - Formatting SD: GeneralTurtorials/FormatingSDCard.md
+    - SSH: GeneralTurtorials/SSHIntoNebulaPad.md
+  - Security: SECURITY.md
