@@ -13,7 +13,7 @@
 9. Give it a moment and you should see an update with version number `V5.1.0.23`
 10. Click update.
 11. Wait for it to finish and after restart, unplug the drive.
-12. If the root was successfully, you can try [SSH'ing  into the nebula pad](../GeneralTurtorials/SSHIntoNebulaPad.md).
+12. If the root was successfully, you can try [SSH'ing  into the nebula pad](../GeneralTutorials/SSHIntoNebulaPad.md).
 13. When you open ssh session type:
     ```Bash
     ./installer.sh

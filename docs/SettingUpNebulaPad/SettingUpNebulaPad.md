@@ -8,10 +8,10 @@ Note: You can use the files from usb drive that came with your nebula pad, but f
 4. Under section "**Download Product Firmware**" click download button.
 5. When download finishes extract the contents of the zip file.
 6. Now grab the sd card that came with the printer and format. Check the formatting guide based on your system:
-    - [Windows](../GeneralTurtorials/FormatingSDCard.md#windows)
-    - [Linux](../GeneralTurtorials/FormatingSDCard.md#linux)
-    - [Mac](../GeneralTurtorials/FormatingSDCard.md#mac)
-7. Open extracted forlder, find "**Ender3V3SE_firmware.bin**"
+    - [Windows](../GeneralTutorials/FormatingSDCard.md#windows)
+    - [Linux](../GeneralTutorials/FormatingSDCard.md#linux)
+    - [Mac](../GeneralTutorials/FormatingSDCard.md#mac)
+7. Open extracted folder, find "**Ender3V3SE_firmware.bin**"
 8. Rename it to firmware.bin
 9. Copy file to formatted sd card.
 10. Put the SD card into printer slot and wait **~5min**
@@ -28,6 +28,6 @@ Note: You can use the files from usb drive that came with your nebula pad, but f
 3. Find Ender 3 v3 se, use button or arrow to navigate to next page (should be on 2nd page)
 4. Click on the printer
 5. Wait for it to connect. P.S. if it does not connect, make sure to recheck the steps you did on [Installing motherboard firmware](#installing-motherboard-firmware)
-6. If connection was successfull, it will start doing some stuff. Let it do its thing, be patient! If this fails make sure to check out the the fixes [TODO Link] if you encounter errors.
+6. If connection was successfully, it will start doing some stuff. Let it do its thing, be patient! If this fails make sure to check out the fixes [TODO Link] if you encounter errors.
 7. Click **OK**
-8. Now you can follow the **Rooting guide**. [TODO Link]
+8. Now you can follow the [Rooting guide](../RootingNebulaPad/InstallingRootedFirmware.md#installing-rooted-firmware).

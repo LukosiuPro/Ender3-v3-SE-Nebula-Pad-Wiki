@@ -18,9 +18,9 @@ Feel free to contribute yourself if you see anything that you want to add.
 ## Rooting Nebula Pad
 - [Downgrading to version 23](RootingNebulaPad/DowngradingNebulaPad.md)
 - [Installing rooted firmware](RootingNebulaPad/InstallingRootedFirmware.md)
-- [SSH'ing into the pad](GeneralTurtorials/SSHIntoNebulaPad.md)
-    - [Windows](GeneralTurtorials/SSHIntoNebulaPad.md#windows)
-    - [Linux/Mac](GeneralTurtorials/SSHIntoNebulaPad.md#linuxmac)
+- [SSH'ing into the pad](GeneralTutorials/SSHIntoNebulaPad.md)
+    - [Windows](GeneralTutorials/SSHIntoNebulaPad.md#windows)
+    - [Linux/Mac](GeneralTutorials/SSHIntoNebulaPad.md#linuxmac)
 
 ### Important Fixes After Rooting The Firmware
 - [Read this First!](FixesForNebulaPad/FixesForNebulaPad.md#important)
@@ -49,10 +49,10 @@ Feel free to contribute yourself if you see anything that you want to add.
 - KE hotend [TODO]
 
 ## Slicers
-- Ocraslicer [TODO]
-    - Setting up remote access/printing to the printer [TODO]
-    - Setting up printer profile for klipper [TODO]
-        - Thumbnail Generation [TODO]
+- Ocraslicer
+    - [Installing OcraSlicer](./OcraSlicer/InstallingOcraSlicer.md#installing-ocraslicer-for-the-first-time)
+    - [Setting up printer profile for klipper](./OcraSlicer/SettingUpPrinterProfile.md#setting-up-printer-profile)
+    - [Setting up remote printing](./OcraSlicer/SettingUpRemotePrinting.md#setting-up-remote-printing)
     - Setting up Filaments [TODO]
     - Setting up Processes [TODO]
         - Hyper PLAs [TODO]
