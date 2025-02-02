@@ -22,14 +22,16 @@ nav:
       - Formatting SD: GeneralTutorials/FormatingSDCard.md
       - SSH: GeneralTutorials/SSHIntoNebulaPad.md
       - Api Token: GeneralTutorials/GettingAPITokenForRemotePrinting.md
+      - Getting Printer Ip:  GeneralTutorials/GettingPrinterIp.md
   - Rooting:
       - Downgrading: RootingNebulaPad/DowngradingNebulaPad.md
       - Installing: RootingNebulaPad/InstallingRootedFirmware.md
   - Fixes: FixesForNebulaPad/FixesForNebulaPad.md
   - OcraSlicer:
       - Installation: OcraSlicer/InstallingOcraSlicer.md
-      - Setting Up Printer Profile: OcraSlicer/SettingUpPrinterProfile.md
-      - Setting Up Remote Printing: OcraSlicer/SettingUpRemotePrinting.md
-      - Setting Up Process Profile: OcraSlicer/SettingUpProcessProfile.md
-      - Setting Up Filament Profile: OcraSlicer/SettingUpFilamentProfile.md
+      - Setting Up Profiles:
+        - Printer Profile: OcraSlicer/SettingUpPrinterProfile.md
+        - Remote Printing: OcraSlicer/SettingUpRemotePrinting.md
+        - Process Profile: OcraSlicer/SettingUpProcessProfile.md
+        - Filament Profile: OcraSlicer/SettingUpFilamentProfile.md
   - Security: SECURITY.md

@@ -19,14 +19,14 @@
 12. When Ocra opens, click get started.
 13. Select your Region.
     ![img.png](OcraSlicerImages/OcraSlicerSelectPrinter.png)
-14. In search bar type `Creality`.
-15. Scroll down to the `Ender 3 v3 se`.
+14. In search bar type **Creality**.
+15. Scroll down to the **Ender 3 v3 se**.
     ![OcraSlicerSelectPrinter.png](OcraSlicerImages/OcraSlicerSelectPrinter.png)
 16. Click next.
 17. Here you can select witch materials you are using/will use, you can still add them later. If you need more.
     ![OcraSlicerSelectMaterials.png](OcraSlicerImages/OcraSlicerSelectMaterials.png)
-18. Click next.
-19. Check the `enable stealth mode`.
-20. Click next.
-21. Click finish.
-22. Now you can continue on setting up the printer profile for klipper.
+18. Click **next**.
+19. Check the **enable stealth mode**.
+20. Click **next**.
+21. Click **finish**.
+22. Now you can continue on [setting up the printer profile for klipper](./SettingUpPrinterProfile.md#setting-up-printer-profile)

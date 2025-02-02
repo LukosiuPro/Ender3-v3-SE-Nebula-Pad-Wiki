@@ -22,7 +22,7 @@
 15. Make sure the first 3 is installed (`Moonraker`, `Fluidd` and `Mainsail`).
 16. If one of them is not installed, follow updating the helper script [TODO Link] and fixing core programs install [TODO Link]
 else continue onward.
-17. Open your browser and type `YOUR_PRINTER_IP:4408`. If you don't know how to get the ip of nebula pad follow this. [TODO Link]
+17. Open your browser and type `YOUR_PRINTER_IP:4408`. If you don't know how to get the ip of nebula pad follow [this](../GeneralTutorials/GettingPrinterIp.md#getting-printer-ip).
 18. If you can't get the page to open, it can be one of many things:
     - Your router does not allow local communication with the printer. [TODO How to fix]
     - You are not on the same network as your printer. [TODO How to fix]

@@ -53,11 +53,11 @@ Feel free to contribute yourself if you see anything that you want to add.
     - [Installing OcraSlicer](./OcraSlicer/InstallingOcraSlicer.md#installing-ocraslicer-for-the-first-time)
     - [Setting up printer profile for klipper](./OcraSlicer/SettingUpPrinterProfile.md#setting-up-printer-profile)
     - [Setting up remote printing](./OcraSlicer/SettingUpRemotePrinting.md#setting-up-remote-printing)
-    - Setting up Filaments [TODO]
-    - Setting up Processes [TODO]
-        - Hyper PLAs [TODO]
-        - PLA [TODO]
-        - PETG [TODO]
+    - [Setting up Filaments](./OcraSlicer/SettingUpFilamentProfile.md)
+      - []
+    - [Setting up Processes](./OcraSlicer/SettingUpProcessProfile.md)
+      - []
+      - []
 
 ## Materials and profiles for OcraSlicer
 - Elegoo PLA [TODO]
