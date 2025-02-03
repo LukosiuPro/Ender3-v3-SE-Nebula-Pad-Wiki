@@ -8,7 +8,7 @@ I'm not responsible if you make changes that is not told to do. **Follow with ca
 
 ### Requirements, before you follow:
 - [Rooted Nebula pad](../RootingNebulaPad/InstallingRootedFirmware.md#installing-rooted-firmware)
-- (Optional) [Ocra slicer Connection to printer](../OcraSlicer/SettingUpRemotePrinting.md#setting-up-remote-printing)
+- (Optional) [Ocra slicer Connection to printer](../OrcaSlicer/SettingUpRemotePrinting.md#setting-up-remote-printing)
 
 ## Fixes
 1. [Changing Run Current](ChangingRunCurrent.md#fixing-layer-shift-and-nozzle-grinding-prints)
