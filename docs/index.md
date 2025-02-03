@@ -49,17 +49,14 @@ Feel free to contribute yourself if you see anything that you want to add.
 - KE hotend [TODO]
 
 ## Slicers
-- Ocraslicer
-    - [Installing OcraSlicer](./OcraSlicer/InstallingOcraSlicer.md#installing-ocraslicer-for-the-first-time)
-    - [Setting up printer profile for klipper](./OcraSlicer/SettingUpPrinterProfile.md#setting-up-printer-profile)
-    - [Setting up remote printing](./OcraSlicer/SettingUpRemotePrinting.md#setting-up-remote-printing)
-    - [Setting up Filaments](./OcraSlicer/SettingUpFilamentProfile.md)
-      - []
-    - [Setting up Processes](./OcraSlicer/SettingUpProcessProfile.md)
-      - []
-      - []
+- OrcaSlicer
+    - [Installing OrcaSlicer](OrcaSlicer/InstallingOrcaSlicer.md#installing-OrcaSlicer-for-the-first-time)
+    - [Setting up printer profile for klipper](OrcaSlicer/SettingUpPrinterProfile.md#setting-up-printer-profile)
+    - [Setting up remote printing](OrcaSlicer/SettingUpRemotePrinting.md#setting-up-remote-printing)
+    - [Setting up Filaments](OrcaSlicer/SettingUpFilamentProfile.md)
+    - [Setting up Processes](OrcaSlicer/SettingUpProcessProfile.md)
 
-## Materials and profiles for OcraSlicer
+## Materials and profiles for OrcaSlicer
 - Elegoo PLA [TODO]
 - Creality PLA [TODO]
 - Sunlu PLA [TODO]

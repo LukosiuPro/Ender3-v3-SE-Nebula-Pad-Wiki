@@ -40,11 +40,11 @@ nav:
       - Downgrading: RootingNebulaPad/DowngradingNebulaPad.md
       - Installing: RootingNebulaPad/InstallingRootedFirmware.md
   - Fixes: FixesForNebulaPad/FixesForNebulaPad.md
-  - OcraSlicer:
-      - Installation: OcraSlicer/InstallingOcraSlicer.md
+  - OrcaSlicer:
+      - Installation: OrcaSlicer/InstallingOrcaSlicer.md
       - Setting Up Profiles:
-        - Printer Profile: OcraSlicer/SettingUpPrinterProfile.md
-        - Remote Printing: OcraSlicer/SettingUpRemotePrinting.md
-        - Process Profile: OcraSlicer/SettingUpProcessProfile.md
-        - Filament Profile: OcraSlicer/SettingUpFilamentProfile.md
+        - Printer Profile: OrcaSlicer/SettingUpPrinterProfile.md
+        - Remote Printing: OrcaSlicer/SettingUpRemotePrinting.md
+        - Process Profile: OrcaSlicer/SettingUpProcessProfile.md
+        - Filament Profile: OrcaSlicer/SettingUpFilamentProfile.md
   - safety.md
