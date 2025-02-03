@@ -1,10 +1,15 @@
+# Project Info
 site_name: Nebula Pad with Ender-3 v3 SE
+
+# Configuration
 theme:
   name: material
-  palette:
-    primary: green
   features:
     - content.code.copy
+  palette:
+    primary: green
+
+# Extensions
 markdown_extensions:
   - abbr
   - admonition
@@ -21,6 +26,8 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - sane_lists
+
+# Page Tree
 nav:
   - Home: index.md
   - Setup: SettingUpNebulaPad/SettingUpNebulaPad.md
