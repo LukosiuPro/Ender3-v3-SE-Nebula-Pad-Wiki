@@ -9,9 +9,9 @@
 1. Open OrcaSlicer.
 2. Click prepare tab.
 3. Click on Edit Icon next to the filament profile.
-    ![OrcaSlicerFilamentEdit.png](OrcaSlicerImages/OrcaSlicerFilamentEdit.png)
+    ![OrcaSlicerFilamentEdit.png](images/OrcaSlicerFilamentEdit.png)
 4. Scroll down to **Prining tempreture**
-    ![OrcaSlicerFilamentPrintingTemperature.png](OrcaSlicerImages/OrcaSlicerFilamentPrintingTemperature.png)
+    ![OrcaSlicerFilamentPrintingTemperature.png](images/OrcaSlicerFilamentPrintingTemperature.png)
 5. Change Nozzle temperature for your first layer and other layers. My recommendation is to use this formula:
     - First Layer: Recommended printing temperature of the filament roll, the middle of the range + 5c
     - Other Layers: Recommended printing temperature of the filament roll, the middle of the range
@@ -31,22 +31,22 @@ for **First layer** and **Other layers**.
 10. Click **User preset**
 11. Click **ok**.
 
-    ![OrcaSlicerFilamentSaveChanges.png](OrcaSlicerImages/OrcaSlicerFilamentSaveChanges.png)
+    ![OrcaSlicerFilamentSaveChanges.png](images/OrcaSlicerFilamentSaveChanges.png)
 
 ## Changing Flow rate
 
 1. Open OrcaSlicer.
 2. Click prepare tab.
 3. Click on Edit Icon next to the filament profile.
-   ![OrcaSlicerFilamentEdit.png](OrcaSlicerImages/OrcaSlicerFilamentEdit.png)
+   ![OrcaSlicerFilamentEdit.png](images/OrcaSlicerFilamentEdit.png)
 4. Scroll down to **Volumetric speed limitation**
 5. If you use stock one, I recommend setting it to **8**
-    ![OrcaSlicerFilamentChangeVolumetricSpeed.png](OrcaSlicerImages/OrcaSlicerFilamentChangeVolumetricSpeed.png)
+    ![OrcaSlicerFilamentChangeVolumetricSpeed.png](images/OrcaSlicerFilamentChangeVolumetricSpeed.png)
 6. Click save icon.
 7. Name the profile. My recommendation is to use this naming schema: **Brand+filament type+@printer name**, for example **Sunlu PLA @Ender-3 V3 SE**
 8. Click **User preset**
 9. Click **ok**.
-   ![OrcaSlicerFilamentSaveChanges.png](OrcaSlicerImages/OrcaSlicerFilamentSaveChanges.png)
+   ![OrcaSlicerFilamentSaveChanges.png](images/OrcaSlicerFilamentSaveChanges.png)
 
 
 ## Cooling Speed Changes
@@ -57,7 +57,7 @@ for **First layer** and **Other layers**.
 1. Open OrcaSlicer.
 2. Click prepare tab.
 3. Click on Edit Icon next to the filament profile.
-   ![OrcaSlicerFilamentEdit.png](OrcaSlicerImages/OrcaSlicerFilamentEdit.png)
+   ![OrcaSlicerFilamentEdit.png](images/OrcaSlicerFilamentEdit.png)
 4. Click **Cooling** tab.
 5. Scroll to **Part colling fan**.
 6. Change these values:
@@ -68,9 +68,9 @@ for **First layer** and **Other layers**.
         - Fan speed: **65**
         - Layer time: **8**
 
-    ![OrcaSlicerFilamentCoolingFanSpeed.png](OrcaSlicerImages/OrcaSlicerFilamentCoolingFanSpeed.png)
+    ![OrcaSlicerFilamentCoolingFanSpeed.png](images/OrcaSlicerFilamentCoolingFanSpeed.png)
 7. Click save icon.
 8. Name the profile. My recommendation is to use this naming schema: **Brand+filament type+@printer name**, for example **Sunlu PLA @Ender-3 V3 SE**
 9. Click **User preset**
 10. Click **ok**.
-    ![OrcaSlicerFilamentSaveChanges.png](OrcaSlicerImages/OrcaSlicerFilamentSaveChanges.png)
+    ![OrcaSlicerFilamentSaveChanges.png](images/OrcaSlicerFilamentSaveChanges.png)

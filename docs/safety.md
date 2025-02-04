@@ -1,6 +1,6 @@
-# Safety Notice
+# :warning: Safety Notice
 
-:warning: **All modifications to your printer are done at your own risk.** :warning:
+:material-alert: **All modifications to your printer are done at your own risk.** :material-alert:
 
 It is important to keep in mind that 3D FDM printers like the Ender-3 series deal with high temperatures, molten plastic, and high voltages in some areas. Improperly done modifications may not only break your printer, but could [present a fire risk](https://www.youtube.com/watch?v=VK_K6fp4BIk) and cause damage, personal harm, or even death.
 

@@ -1,9 +1,7 @@
 # Limiting Speed of the printer
-## IMPORTANT!!!
-In this tutorial you will have to do some adjustments in printer config, **make sure to read all the steps closely**,
-as these changes involve changing hardware settings,
-which can break your printer if you don't follow them and decide to make changes yourself,
-I'm not responsible if you make changes that is not told to do. **Follow with caution!!!!!!!**
+
+!!! warning "At Your Own Risk"
+    The following tweaks require editing the printer configuration files on the Nebula Pad. As these configuration files adjust how the printer hardware works, bad edits may break your hardware or cause other [safety](../../safety.md) issues. **Make sure to read the full process before starting and follow each step closely.**
 
 1. Open Fluid in your browser or Ocra slicer, for this tutorial will use the browser,
    but if you have Ocra slicer set up, **skip to step 4**.
