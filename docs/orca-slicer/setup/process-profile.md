@@ -5,7 +5,7 @@
 
 1. Click **speed** tab.
 
-    ![OrcaSlicerProcessSpeedTab.png](OrcaSlicerImages/OrcaSlicerProcessSpeedTab.png)
+    ![OrcaSlicerProcessSpeedTab.png](images/OrcaSlicerProcessSpeedTab.png)
  
 2. Scroll down to **First layer speed** section.
 3. In **First layer speed** section.
@@ -14,7 +14,7 @@
     - First layer infill: **45**
     - Number of slow layers: **3** (can be **2**, but I found **3** working the best, for me)
 
-    ![OrcaSlicerProcessFirstLayer.png](OrcaSlicerImages/OrcaSlicerProcessFirstLayerSunlu.png)
+    ![OrcaSlicerProcessFirstLayer.png](images/OrcaSlicerProcessFirstLayerSunlu.png)
 
 5. Scroll down to **Other layers speed**
 6. In **Other layers speed** change these:
@@ -25,7 +25,7 @@
     - Top surface: **50**
     - Gap infill: **30**
    
-    ![OrcaSlicerProcessOtherLayersSpeedSunlu.png](OrcaSlicerImages/OrcaSlicerProcessOtherLayersSpeedSunlu.png)
+    ![OrcaSlicerProcessOtherLayersSpeedSunlu.png](images/OrcaSlicerProcessOtherLayersSpeedSunlu.png)
 
 7. Scroll down to **Travel speed**
 8. Set:
@@ -34,7 +34,7 @@
 10. Set:
     - Normal printing: **0**
     
-    ![OrcaSlicerProcessTravelSpeedAndAcceleration.png](OrcaSlicerImages/OrcaSlicerProcessTravelSpeedAndAcceleration.png)
+    ![OrcaSlicerProcessTravelSpeedAndAcceleration.png](images/OrcaSlicerProcessTravelSpeedAndAcceleration.png)
 
 11. Scroll down to **Jerk(XY)**
 12. Set:
@@ -44,4 +44,4 @@
 15. Click **User preset**
 16. Click **ok**.
 
-    ![OrcaSlicerProcessSave.png](OrcaSlicerImages/OrcaSlicerProcessSave.png)
+    ![OrcaSlicerProcessSave.png](images/OrcaSlicerProcessSave.png)

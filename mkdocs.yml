@@ -6,6 +6,7 @@ theme:
   name: material
   features:
     - content.code.copy
+    - navigation.sections
   palette:
     primary: green
 
@@ -14,6 +15,7 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -23,28 +25,29 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
+  - pymdownx.mark
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tilde
   - sane_lists
 
 # Page Tree
 nav:
-  - Home: index.md
-  - Setup: SettingUpNebulaPad/SettingUpNebulaPad.md
-  - General:
-      - Formatting SD: GeneralTutorials/FormatingSDCard.md
-      - SSH: GeneralTutorials/SSHIntoNebulaPad.md
-      - Api Token: GeneralTutorials/GettingAPITokenForRemotePrinting.md
-      - Getting Printer Ip:  GeneralTutorials/GettingPrinterIp.md
-  - Rooting:
-      - Downgrading: RootingNebulaPad/DowngradingNebulaPad.md
-      - Installing: RootingNebulaPad/InstallingRootedFirmware.md
-  - Fixes: FixesForNebulaPad/FixesForNebulaPad.md
-  - OrcaSlicer:
-      - Installation: OrcaSlicer/InstallingOrcaSlicer.md
-      - Setting Up Profiles:
-        - Printer Profile: OrcaSlicer/SettingUpPrinterProfile.md
-        - Remote Printing: OrcaSlicer/SettingUpRemotePrinting.md
-        - Process Profile: OrcaSlicer/SettingUpProcessProfile.md
-        - Filament Profile: OrcaSlicer/SettingUpFilamentProfile.md
   - safety.md
+  - Home: index.md
+  - Setup: setup-nebula-pad/index.md
+  - Rooting and Fixes:
+    - Rooting the Nebula Pad: rooting/index.md
+    - Post-Root Fixes: rooting/fixes/index.md
+  - General:
+    - Formatting SD: general/format-sd.md
+    - SSH: general/nebula-pad-ssh.md
+    - Api Token: general/fluidd-api-token.md
+    - Getting Printer Ip:  general/find-ip.md
+  - OrcaSlicer:
+    - Installation: orca-slicer/installing.md
+    - Setting Up:
+      - Printer Profile: orca-slicer/setup/printer-profile.md
+      - Remote Printing: orca-slicer/setup/remote-printing.md
+      - Process Profile: orca-slicer/setup/process-profile.md
+      - Filament Profile: orca-slicer/setup/filament-profile.md
