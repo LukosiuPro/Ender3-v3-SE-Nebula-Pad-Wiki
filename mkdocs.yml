@@ -71,3 +71,4 @@ nav:
       - Filament Profile: orca-slicer/setup/filament-profile.md
   - Addons:
     - LED Light Bar: addons/lightbar.md
+    - Linear Guide Rail: addons/linear-guide-rail.md
