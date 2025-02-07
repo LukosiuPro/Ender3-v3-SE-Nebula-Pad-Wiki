@@ -69,3 +69,5 @@ nav:
       - Remote Printing: orca-slicer/setup/remote-printing.md
       - Process Profile: orca-slicer/setup/process-profile.md
       - Filament Profile: orca-slicer/setup/filament-profile.md
+  - Addons:
+    - LED Light Bar: addons/lightbar.md
