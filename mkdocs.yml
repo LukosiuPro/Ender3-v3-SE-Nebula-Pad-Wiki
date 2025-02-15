@@ -74,7 +74,8 @@ nav:
       - Process Profile: orca-slicer/setup/process-profile.md
       - Filament Profile: orca-slicer/setup/filament-profile.md
   - Addons:
+    - Ceramic Hot End Kit: addons/ceramic-hot-end.md
+    - Linear Guide Rail: addons/linear-guide-rail.md
     - LED Light Bar:
       - Installation: addons/lightbar.md
       - Tips: addons/lightbar-tips.md
-    - Linear Guide Rail: addons/linear-guide-rail.md
