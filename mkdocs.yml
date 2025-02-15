@@ -28,6 +28,10 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+# Plugins
+plugins:
+  - glightbox
+
 # Extensions
 markdown_extensions:
   - abbr
