@@ -18,7 +18,7 @@ The kit includes the following parts:
 
 !!! tip "Tips"
     - You will be needing to remove quite a few parts to do this installation. Multiple screws and sizes of screws are involved. Make note of what screws go where so you don't mix them up on reinstall. Taking photos while you work is a good practice to keep things straight.
-    - If you haven't worked on your printer before, you will see little blobs on the wire connectors. This is hot glue used to keep the wires from loosening during shipping. You can carefully peel these off using a tweezer designed for electronics. If you have a hairdryer or heat gun, you can _lightly_ heat up the area to make the glue a bit easier to pull off. If you use heat, be careful not to overheat the area as it could melt the connectors or damage the circuit boards.
+    - If you haven't worked on your printer before, you will see little blobs on the wire connectors. This is hot glue used to keep the wires from loosening during shipping. You can carefully peel these off using a tweezer designed for electronics or using a bit of isopropyl alcohol to loosen the glue. If you have a hairdryer or heat gun, you can _lightly_ heat up the area to make the glue a bit easier to pull off. If you use heat, be careful not to overheat the area as it could melt the connectors or damage the circuit boards.
 
 1. Remove the full hotend from the stock backplate
     1. Unscrew the cover. There are two screws on the right and one on the left.
