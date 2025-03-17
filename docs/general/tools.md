@@ -29,7 +29,7 @@ If you're cutting ties, you will need replacements. Nylon zip ties are fairly ch
 
 [Reference pack of ties](https://www.amazon.com/dp/B097M825XG/)
 
-## Polyamide (Kapton) Tape
-For some modifications, you may need to run wires near sharp metal pieces. To reduce the risk of the wire being damaged, you can cover the sharp edge with tape. Do not use just any tape, though. You will want something that's resistant to heat, decently insulating, and thin enough it doesn't affect the fit between parts. A good option is polyamide tape. It's also often called heat tape or Kapton tape, after the brand name. A small assortment is useful in projects. Since it can withstand up to 400°C, some people also have used it on their build plate to give it an extra smooth texture in place of a glass or smooth PEI plate.
+## Polyimide (Kapton) Tape
+For some modifications, you may need to run wires near sharp metal pieces. To reduce the risk of the wire being damaged, you can cover the sharp edge with tape. Do not use just any tape, though. You will want something that's resistant to heat, decently insulating, and thin enough it doesn't affect the fit between parts. A good option is polyimide tape. It's also often called heat tape or Kapton tape, after the brand name. A small assortment is useful in projects. Since it can withstand up to 400°C, some people also have used it on their build plate to give it an extra smooth texture in place of a glass or smooth PEI plate.
 
 [Reference tape](https://www.amazon.com/dp/B072Z92QZ2/)
