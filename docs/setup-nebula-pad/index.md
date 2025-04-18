@@ -1,7 +1,7 @@
 # Setting up the Nebula Pad
 
 !!! info
-    Some of the instructions here reference files you can download from the [Creality Downloads](https://www.creality.com/pages/download-creality-nebula-smart-kit) page for the Nebula Pad.
+    Some of the instructions here reference files you can download from the [Creality Downloads](https://www.creality.com/pages/download-creality-nebula-smart-kit) page for the Nebula Pad. These files are also included on the USB drive that comes with the Nebula Kit. You can use those files if you wish, but they may be outdated. When working on the setup, it is recommended to use the freshly downloaded versions. 
 
 Before you can do a lot of cool stuff with the Nebula Pad, you need to install it first. While the official manual offers some help, it is not specific to the Ender-3 V3 SE, which can lead to odd errors.
 
@@ -10,6 +10,9 @@ Before installing the kit, you may want to print a bracket for the new Nebula Pa
 ## Install Motherboard Firmware
 
 The default firmware for the Ender-3 V3 SE is designed to work with the stock screen. The Nebula Pad will not connect to the printer until you update the printer's motherboard to firmware that works with the Nebula Pad.
+
+!!! tip inline end
+    You will need to use an SD card to update the printer's firmware. An improperly formatted card can cause failures in the update process. Make sure that the SD card is [correctly formatted](../general/format-sd.md) before beginning.
 
 1. Make sure the printer is powered off.
 2. Unplug the old screen.
