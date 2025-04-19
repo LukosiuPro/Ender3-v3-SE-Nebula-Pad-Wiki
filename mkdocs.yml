@@ -65,7 +65,8 @@ nav:
     - Formatting SD: general/format-sd.md
     - SSH: general/nebula-pad-ssh.md
     - Api Token: general/fluidd-api-token.md
-    - Getting Printer Ip:  general/find-ip.md
+    - Finding Printer IP:  general/find-ip.md
+    - Recommended Tools: general/tools.md
   - OrcaSlicer:
     - Installation: orca-slicer/installing.md
     - Setting Up:
