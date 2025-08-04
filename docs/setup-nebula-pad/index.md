@@ -1,5 +1,8 @@
 # Setting up the Nebula Pad
 
+!!! important
+    The Nebula Pad does not currently support the newer "C14" mainboard that is in newer SE printers.
+
 !!! info
     Some of the instructions here reference files you can download from the [Creality Downloads](https://www.creality.com/pages/download-creality-nebula-smart-kit) page for the Nebula Pad. These files are also included on the USB drive that comes with the Nebula Kit. You can use those files if you wish, but they may be outdated. When working on the setup, it is recommended to use the freshly downloaded versions. 
 
