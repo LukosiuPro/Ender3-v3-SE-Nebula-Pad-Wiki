@@ -10,6 +10,9 @@ can.
 
 ## Getting Started
 
+!!! important
+    The Nebula Pad does not currently support the newer "C14" mainboard that is in newer SE printers.
+
 !!! danger "At Your Own Risk"
     3D FDM printers involve high temperatures, molten plastic, and electricity. Improperly done modifications may not
     only break your printer but may cause damage, personal harm, or death. Any modifications you make are at your own

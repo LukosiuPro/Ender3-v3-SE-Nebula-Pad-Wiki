@@ -5,12 +5,14 @@ Once you have installed the Nebula Pad on your printer, you can "root" it. This 
 !!! danger "At Your Own Risk"
     3D FDM printers involve high temperatures, molten plastic, and electricity. Improperly done modifications may not only break your printer but may cause damage, personal harm, or death. Any modifications you make are at your own risk. Please make sure to follow all [safety](../safety.md) notes and your own common sense when working on your printer.
 
-## Downgrading to Version 1.1.0.23
+## Confirming Version 1.1.0.29
 
-This document covers installing a "rooted" version of the Nebula Pad firmware version 1.1.0.23. If your pad is running a newer version, you will need to downgrade first or the process could cause problems with your printer.
+This document covers installing a "rooted" version of the Nebula Pad firmware version 1.1.0.29. If your pad is running
+an older version, you will want to upgrade first to ensure a clean setup. It is also recommended that you do not set up
+a wireless network connection on the stock firmware.
 
 1. Open [creality website](https://www.creality.com/pages/download-creality-nebula-smart-kit),
-2. Under "**Download Product Firmware**" section find `NEBULA_ota_img_V1.1.0.23.img` and click download.
+2. Under "**Download Product Firmware**" section find `NEBULA_ota_img_V1.1.0.29.img` and click download.
 3. Now find your usb drive that came with nebula pad.
 4. Make sure there is **no firmware file already on it** that ends with `.img`. If you have remove the file.
 5. (Optional) clear the flash drive from other files. 
@@ -23,9 +25,13 @@ This document covers installing a "rooted" version of the Nebula Pad firmware ve
 ## Installing Rooted Firmware
 
 !!! important
-    Before following the below steps, make sure your Nebula Pad is running the official firmware version 1.1.0.23. If it is not, follow the steps in the previous section before proceeding.
+    Before following the below steps, make sure your Nebula Pad is running the official firmware version 1.1.0.29. If it
+    is not, follow the steps in the previous section before proceeding.
 
-1. Download firmware from [here](https://www.openk1.org/cfw/NEBULA-destinal-cfw-0.5-ota_img_V5.1.0.23.img).
+Before starting this process, it is recommended that you do a factory reset on the Pad. You can do a reset by going to
+the gear section on the Pad, then scroll to the bottom on the System tab to find the option.
+
+1. Download firmware from [here](https://mega.nz/file/Kox1kYCJ#6QWxVtRq9qEWKdZIfl0-O0lnbYkpP1nnKZtUjiZ8J80).
 2. Grab usb drive that came with nebula pad. 
 3. Make sure there is **no firmware file already on it** that ends with `.img`. If you have remove the file. 
 4. (optional) remove any other file that is on the usb drive, to reduce likely chance of failure.
@@ -33,20 +39,24 @@ This document covers installing a "rooted" version of the Nebula Pad firmware ve
 6. Unmount the drive from your pc.
 7. Unplug the USB drive.
 8. Plug it into the nebula pad.
-9. Give it a moment and you should see an update with version number `V5.1.0.23`
+9. Give it a moment and you should see an update with version number `V6.1.0.29`
 10. Click update.
 11. Wait for it to finish and after restart, unplug the drive.
-12. If the root was successfully, you can try [SSH'ing  into the nebula pad](../general/nebula-pad-ssh.md).
-13. When you open ssh session type:
+
+## Installing Mainsail and Fluidd
+
+If the rooted firmware install was successful, you can now install Mainsail and Fluidd to get a remote interface for
+your printer that will also let you print directly from some slicer software.
+
+1. If you did a factory reset before installing, you will be walked through the Pad setup. You can connect to a network,
+   but it is recommended you not connect to the Creality Cloud.
+2. Once the printer is connected to the network and ready, you can try [SSH'ing into the nebula pad](../general/nebula-pad-ssh.md).
+   When you open ssh session type:
     ```Bash
     ./installer.sh
     ```
-14. In the installer, type `5` and click enter
-15. Make sure the first 3 is installed (`Moonraker`, `Fluidd` and `Mainsail`).
-16. If one of them is not installed, follow updating the helper script [TODO Link] and fixing core programs install [TODO Link]
-else continue onward.
-17. Open your browser and type `YOUR_PRINTER_IP:4408`. If you don't know how to get the ip of nebula pad follow [this](../general/find-ip.md).
-18. If you can't get the page to open, it can be one of many things:
-    - Your router does not allow local communication with the printer. [TODO How to fix]
-    - You are not on the same network as your printer. [TODO How to fix]
-    - Corrupted `Moonraker`/`Fluid` install [TODO How to fix]
+   This will download and then launch the helper script.
+3. At the main menu, choose the option to install.
+4. At the next menu, install "Moonraker and Nginx" and "Fluidd" from the essentials section at minimum.
+5. When the install is done, quit the script and then run "reboot" to restart the Nebula Pad and the newly installed tools.
+6. Once the Pad has started back up, you can open a web browser and access the Fluidd interface by browsing to `http://your-printer:4408/`. If you're not sure of the IP, you can [follow this guide to find it](../general/find-ip.md).
