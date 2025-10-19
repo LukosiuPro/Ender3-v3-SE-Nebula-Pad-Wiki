@@ -2,8 +2,10 @@
 
 !!! important
     Creality print right now does not have motherboard firmware files, so these are my local ones that I have, when they fix their site, I will update this to their links. USE AT YOUR OWN RISK!
-    The Nebula Pad only support the newer "C14" mainboard only work with these firmware files: [Ender3 v3 SE C14 motherboard firmware files](../../files/Ender3V3Se_stm32f401_klipper下位机.rar). Thanks to @absk1s3 for the files.
-    For C13 motherboard please use the older files from here: [Ender3 v3 SE C13 motherboard firmware files](../../files/3d-print-firmware.zip) Alternatively for C13 motherboard you can use the wayback machine to get those from (old site)[https://web.archive.org/web/20250731114403/https://www.creality.com/pages/download-creality-nebula-smart-kit].
+    
+    * The newer "C14" mainboard only work with these firmware files: [Ender3 v3 SE C14 motherboard firmware files](../../files/Ender3V3Se_stm32f401_klipper下位机.rar). Thanks to @absk1s3 for the files.
+    
+    * For C13 motherboard please use the older files from here: [Ender3 v3 SE C13 motherboard firmware files](../../files/3d-print-firmware.zip) Alternatively for C13 motherboard you can use the wayback machine to get those from [old site](https://web.archive.org/web/20250731114403/https://www.creality.com/pages/download-creality-nebula-smart-kit).
 
 !!! info
     Some of the instructions here reference files you can download from the [Creality Downloads](https://www.creality.com/pages/download-creality-nebula-smart-kit) page for the Nebula Pad. These files are also included on the USB drive that comes with the Nebula Kit. You can use those files if you wish, but they may be outdated. When working on the setup, it is recommended to use the freshly downloaded versions. 
@@ -34,12 +36,12 @@ The default firmware for the Ender-3 V3 SE is designed to work with the stock sc
 
 At this point, you can proceed to [setup the Nebula Pad](#setup-the-nebula-pad).
 
-## Set up the Nebula Pad
+## Setup the Nebula Pad
 
 1. When you boot up for the first time, you will be greeted with a printer selection dialog.
 2. Depending on the firmware version on your Nebula Pad, you will see either arrows or page buttons to go between pages in the list.
 3. Find the "Ender-3 V3 SE" in the list. This will usually be on the second or third page.
 4. Tap on the listing.
-5. The Nebula Pad will now try to connect and communicate with the printer. If it does not connect, make sure you [installed the motherboard firmware](#installing-motherboard-firmware) before setting up the pad.
+5. The Nebula Pad will now try to connect and communicate with the printer. If it does not connect, make sure you [installed the motherboard firmware](#install-motherboard-firmware) before setting up the pad.
 6. Once the connection is successful, the Pad will start running some tests and calibrations including z-level offset and bed mesh probing. This can take a while, so be patient.
 7. Once the test and calibrations are complete, you are ready to [root the pad](../rooting/index.md).
