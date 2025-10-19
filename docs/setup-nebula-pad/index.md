@@ -1,7 +1,9 @@
 # Setting up the Nebula Pad
 
 !!! important
-    The Nebula Pad does not currently support the newer "C14" mainboard that is in newer SE printers.
+    Creality print right now does not have motherboard firmware files, so these are my local ones that I have, when they fix their site, I will update this to their links. USE AT YOUR OWN RISK!
+    The Nebula Pad only support the newer "C14" mainboard only work with these firmware files: [Ender3 v3 SE C14 motherboard firmware files](../../files/Ender3V3Se_stm32f401_klipper下位机.rar). Thanks to @absk1s3 for the files.
+    For C13 motherboard please use the older files from here: [Ender3 v3 SE C13 motherboard firmware files](../../files/3d-print-firmware.zip) Alternatively for C13 motherboard you can use the wayback machine to get those from (old site)[https://web.archive.org/web/20250731114403/https://www.creality.com/pages/download-creality-nebula-smart-kit].
 
 !!! info
     Some of the instructions here reference files you can download from the [Creality Downloads](https://www.creality.com/pages/download-creality-nebula-smart-kit) page for the Nebula Pad. These files are also included on the USB drive that comes with the Nebula Kit. You can use those files if you wish, but they may be outdated. When working on the setup, it is recommended to use the freshly downloaded versions. 
@@ -21,7 +23,7 @@ The default firmware for the Ender-3 V3 SE is designed to work with the stock sc
 2. Unplug the old screen.
 3. Download the "3D Print Firmware" from the downloads page.
 4. Extract the contents of the downloaded archive.
-5. Put the printer's SD card into your computer and copy the file `Ender3V3SE_firmware.bin` to the root of the card.
+5. Put the printer's SD card into your computer and copy the file `Ender3V3SE_firmware.bin`, or take the `firmware.bin` file, if you use a C14 files, to the root of the card.
 6. Rename the file to `firmware.bin`.
 7. Put the card into the printer and turn it on.
 8. Wait **at least 5 minutes** and then turn off the printer.
@@ -32,7 +34,7 @@ The default firmware for the Ender-3 V3 SE is designed to work with the stock sc
 
 At this point, you can proceed to [setup the Nebula Pad](#setup-the-nebula-pad).
 
-## Setup the Nebula Pad
+## Set up the Nebula Pad
 
 1. When you boot up for the first time, you will be greeted with a printer selection dialog.
 2. Depending on the firmware version on your Nebula Pad, you will see either arrows or page buttons to go between pages in the list.
