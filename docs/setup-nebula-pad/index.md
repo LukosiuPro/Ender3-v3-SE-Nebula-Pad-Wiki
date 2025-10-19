@@ -2,6 +2,7 @@
 
 !!! important
     Creality print right now does not have motherboard firmware files, so these are my local ones that I have, when they fix their site, I will update this to their links. USE AT YOUR OWN RISK!
+
     * The newer "C14" mainboard only work with these firmware files: [Ender3 v3 SE C14 motherboard firmware files](https://github.com/LukosiuPro/Ender3-v3-SE-Nebula-Pad-Wiki/blob/main/files/Ender3V3Se_stm32f401_klipper%E4%B8%8B%E4%BD%8D%E6%9C%BA.rar){:download="firmware-for-c14"}. Thanks to @absk1s3 for the files.
     * For C13 motherboard please use the older files from here: [Ender3 v3 SE C13 motherboard firmware files](https://github.com/LukosiuPro/Ender3-v3-SE-Nebula-Pad-Wiki/blob/main/files/3d-print-firmware.zip){:download="firmware-for-c13"} Alternatively for C13 motherboard you can use the wayback machine to get those from [old site](https://web.archive.org/web/20250731114403/https://www.creality.com/pages/download-creality-nebula-smart-kit).
 
