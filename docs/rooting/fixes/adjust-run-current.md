@@ -1,7 +1,7 @@
 # Fixing Layer shift and nozzle grinding prints
 
 !!! warning "At Your Own Risk"
-    The following requires editing the printer configuration files on the Nebula Pad. As these configuration files adjust how the printer hardware works, bad edits may break your hardware or cause oth[...]
+ The following requires editing the printer configuration files on the Nebula Pad. As these configuration files adjust how the printer hardware works, bad edits may break your hardware or cause other [safety](../../safety.md) issues. **Make sure to read the full process before starting and follow each step closely.**
 
 1. Open Fluid in your browser or Ocra slicer, for this tutorial will use the browser, 
 but if you have Ocra slicer set up, **skip to step 4**.
@@ -42,12 +42,12 @@ use arrow keys to navigate down.
     stealthchop_threshold: 0
     sense_resistor: 0.150
     ```
-11. Change the value of `run_current: 0.6` to `run_current: 0.85` like this:
+11. Change the value of `run_current: 0.6` to `run_current: 0.8` like this:
     ``` cfg
     [tmc2208 stepper_z]
     uart_pin: PB14
     interpolate: True
-    run_current: 0.85
+    run_current: 0.8
     stealthchop_threshold: 0
     sense_resistor: 0.150
     ```
