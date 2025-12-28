@@ -26,6 +26,10 @@ The default firmware for the Ender-3 V3 SE is designed to work with the stock sc
 4. Extract the contents of the downloaded archive.
 5. Put the printer's SD card into your computer and copy the file `Ender3V3SE_firmware.bin`, or take the `firmware.bin` file, if you use a C14 files, to the root of the card.
 6. Rename the file to `firmware.bin`.
+
+!!! note
+       For C14 motherboard: Create a folder called `STM32F4_UPDATE` in the root of the SD card and place the `firmware.bin` file inside this folder. This is required for the printer to detect the firmware update.
+       
 7. Put the card into the printer and turn it on.
 8. Wait **at least 5 minutes** and then turn off the printer.
 9. Remove the SD card from the printer.
