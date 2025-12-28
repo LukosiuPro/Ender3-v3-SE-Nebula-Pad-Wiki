@@ -1,7 +1,7 @@
 # Fixing Layer shift and nozzle grinding prints
 
 !!! warning "At Your Own Risk"
-    The following requires editing the printer configuration files on the Nebula Pad. As these configuration files adjust how the printer hardware works, bad edits may break your hardware or cause other [safety](../../safety.md) issues. **Make sure to read the full process before starting and follow each step closely.**
+ The following requires editing the printer configuration files on the Nebula Pad. As these configuration files adjust how the printer hardware works, bad edits may break your hardware or cause other [safety](../../safety.md) issues. **Make sure to read the full process before starting and follow each step closely.**
 
 1. Open Fluid in your browser or Ocra slicer, for this tutorial will use the browser, 
 but if you have Ocra slicer set up, **skip to step 4**.
@@ -52,5 +52,8 @@ use arrow keys to navigate down.
     sense_resistor: 0.150
     ```
     ![PrinterConfigZAxis.png](FluidImages/PrinterConfigZAxis.png)
+
+Note: If you are still experiencing layer shift or Z-related print issues after the above change, you can cautiously bump the Z-axis `run_current` up to 0.85. Make small incremental changes, test between edits, and monitor driver/board temperatures — higher currents can increase heat. Proceed at your own risk.
+
 12. Click `Save & Restart`
     ![PrinterConfigSaveAndRestart.png](FluidImages/PrinterConfigSaveAndRestart.png)
