@@ -84,3 +84,4 @@ nav:
     - LED Light Bar:
       - Installation: addons/lightbar.md
       - Tips: addons/lightbar-tips.md
+    - Dual Fan Cooling: addons/dual-fan-cooling.md
