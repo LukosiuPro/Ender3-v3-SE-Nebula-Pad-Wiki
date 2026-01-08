@@ -22,7 +22,7 @@ The dual fan cooling upgrade replaces the single part cooling fan with a paired 
 ## Installation
 
 1. Remove the extruder cover. 
-Keep the screws
+Keep the screws.
 ![Extruder cover removal](images/removecover.png)
 
 #### Wiring
