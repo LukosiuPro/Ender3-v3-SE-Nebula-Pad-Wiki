@@ -54,9 +54,9 @@ Keep the screws
 ![Left side](images/leftside5015fanmod.png)
 
 7. Screw the right side using the M3x22 screw. (You might need to use a washer)
-![alt text](images/rightsideinstalled.png)
-8. Screw the left side using the M4x20 screw. (This one doesn't need a washer)
-![alt text](images/leftsideinstalled.png)
+![Right side fan installed](images/rightsideinstalled.png)
+8. Screw the left side using the M4x20 screw. (This one doesnt need a washer)
+![Left side fan installed](images/leftsideinstalled.png)
 !!! note
     Honestly it's a little hard to install the left side <img src="../images/son.png" width="20" style="vertical-align: middle;" />
     <br>Try to push the fan back if you find it difficult
