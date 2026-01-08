@@ -66,7 +66,7 @@ Refer to [Cooling Speed Changes](../../orca-slicer/setup/filament-profile#coolin
 
 ### Input shaping
 1. Remove the M3x22 screw from the right side
-2. Install your prefered g sensor mount with a M3x24 screw <br>
+2. Install your preferred g sensor mount with a M3x24 screw <br>
 I use this [model](https://www.printables.com/model/1309378-ender-3-v3-se-nebula-g-sensor-mount) and mounted with the top hole
 3. Do your input shaping
 4. Remove the g sensor mount
