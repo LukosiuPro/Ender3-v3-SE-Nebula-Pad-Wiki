@@ -55,7 +55,7 @@ Keep the screws
 
 7. Screw the right side using the M3x22 screw. (You might need to use a washer)
 ![alt text](images/rightsideinstalled.png)
-8. Screw the left side using the M4x20 screw. (This one doesnt need a washer)
+8. Screw the left side using the M4x20 screw. (This one doesn't need a washer)
 ![alt text](images/leftsideinstalled.png)
 !!! note
     Honestly it's a little hard to install the left side <img src="../images/son.png" width="20" style="vertical-align: middle;" />
