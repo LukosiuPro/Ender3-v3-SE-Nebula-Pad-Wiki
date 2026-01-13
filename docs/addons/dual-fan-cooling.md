@@ -14,8 +14,8 @@ The dual fan cooling upgrade replaces the single part cooling fan with a paired 
 
 - 2x 5015 blower fans
 - [Dual 5015 blower duct](https://www.printables.com/model/667051-dual-5015-blower-duct-for-ender-3-v3-se) (print the correct variant for your hotend—multiple versions are included and the notes explain which one to use)
-- 1x M3x22 screw (for attaching the right side)
-- 1x M3x24 screw (for attaching the input shaping mount on the right side)
+- 1x M3x25 screw (for attaching the right side)
+- 1x M3x30 screw (for attaching the input shaping mount on the right side)
 - 1x M4x20 screw (for attaching the left side)
 - 3x original countersunk screws from the cover
 
@@ -53,7 +53,7 @@ Keep the screws.
 ![Right side](images/rightside5015fanmod.png)
 ![Left side](images/leftside5015fanmod.png)
 
-7. Screw the right side using the M3x22 screw. (You might need to use a washer)
+7. Screw the right side using the M3x25 screw. (You might need to use a washer)
 ![Right side fan installed](images/rightsideinstalled.png)
 8. Screw the left side using the M4x20 screw. (This one doesnt need a washer)
 ![Left side fan installed](images/leftsideinstalled.png)
@@ -65,12 +65,12 @@ Keep the screws.
 Refer to [Cooling Speed Changes](../../orca-slicer/setup/filament-profile#cooling-speed-changes) 
 
 ### Input shaping
-1. Remove the M3x22 screw from the right side
-2. Install your preferred g sensor mount with a M3x24 screw <br>
+1. Remove the M3x25 screw from the right side
+2. Install your preferred g sensor mount with a M3x30 screw <br>
 I use this [model](https://www.printables.com/model/1309378-ender-3-v3-se-nebula-g-sensor-mount) and mounted with the top hole
 3. Do your input shaping
 4. Remove the g sensor mount
-5. Reinstall the fan with the M3x22
+5. Reinstall the fan with the M3x25
 ## Benefits
 
 - **Improved cooling coverage**: Airflow is distributed evenly from both sides of the nozzle, reducing warping and improving overhang performance.
