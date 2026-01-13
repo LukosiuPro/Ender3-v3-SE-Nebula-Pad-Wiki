@@ -58,7 +58,7 @@ Keep the screws.
 8. Screw the left side using the M4x20 screw. (This one doesnt need a washer)
 ![Left side fan installed](images/leftsideinstalled.png)
 !!! note
-    Honestly it's a little hard to install the left side <img src="../images/son.png" width="20" style="vertical-align: middle;" />
+    Honestly it's a little hard to install the left side 😭
     <br>Try to push the fan back if you find it difficult
 
 ### Slicer configuration
